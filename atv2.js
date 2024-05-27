@@ -51,7 +51,7 @@ while(pergunta != "N"){
             break
         default:
             console.log("essa opção não é valida.")
-            brea
+            break
 
     }
 
