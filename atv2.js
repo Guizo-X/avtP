@@ -50,8 +50,8 @@ while(pergunta != "N"){
             console.log(`seu resultado é ${raiz}`)
             break
         default:
-            console.log("essa opção não existe.")
-            break
+            console.log("essa opção não é valida.")
+            brea
 
     }
 
